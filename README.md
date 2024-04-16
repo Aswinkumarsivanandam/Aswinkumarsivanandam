@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aswinkumarsivanandam.Aswinkumarsivanandam" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aswin's;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aswin's+aws-certified-solutions-architect;" />
 </h1>
 
-<h3 align="center">A passionate Cloud Engineer  from India 🇨🇦</h3>
+<h3 align="center">A passionate Cloud Engineer from India </h3>
 
 <br/>
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
  
  🌱 I’m currently learning **Docker, Terraform, AWS, Ansible**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ **[aws-certified-solutions-architect-associate](https://github.com/Aswinkumarsivanandam/Aswinkumarsivanandam/assets/86021033/cd51a619-4545-4ee8-ad63-6db98a6572bb) [Click](https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url) to verify** 
 
 ⚡ Fun fact **Chess addict**
 
