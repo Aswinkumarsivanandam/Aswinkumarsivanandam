@@ -17,10 +17,11 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<div align="center">
- 
 
- **[Click](https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url) to verify** 
+<div align="center">
+ <h3>Certifications</h3>
+
+ <!-- https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url !-->
 
  </div>
  
