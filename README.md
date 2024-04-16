@@ -1,6 +1,7 @@
 <!---![aws-certified-solutions-architect-associate](https://github.com/Aswinkumarsivanandam/Aswinkumarsivanandam/assets/86021033/cd51a619-4545-4ee8-ad63-6db98a6572bb)
 
-- AWS Certification - https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url
+- AWS Certification - https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url![aws-certified-solutions-architect-associate](https://github.com/Aswinkumarsivanandam/Aswinkumarsivanandam/assets/86021033/b0850382-52f0-44ad-947c-7f181f1d7171)
+
   
 <!---
 Aswinkumarsivanandam/Aswinkumarsivanandam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aswinkumarsivanandam.Aswinkumarsivanandam" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aswin's+aws-certified-solutions-architect;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aswin's" />
 </h1>
 
 <h3 align="center">A passionate Cloud Engineer from India </h3>
@@ -18,11 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Terraform, AWS, Ansible**
 
- **[aws-certified-solutions-architect-associate](https://github.com/Aswinkumarsivanandam/Aswinkumarsivanandam/assets/86021033/cd51a619-4545-4ee8-ad63-6db98a6572bb) [Click](https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url) to verify** 
-
-⚡ Fun fact **Chess addict**
+ **[Click](https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url) to verify** 
 
  </div>
  
@@ -39,4 +37,13 @@ You can click the Preview link to take a look at your changes.
 </div>
 
  <hr/>
- 
+ <h2 align="center">⚒️ DevOps-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,gitlab,docker,terraform,aws,azure,ansible,jenkins,maven" />
+    <img src="https://skillicons.dev/icons?i=python,prometheus,sentry,grafana,packer" /><br>
+</div>
+
+<br/>
+<hr/>
+
