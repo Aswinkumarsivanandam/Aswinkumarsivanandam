@@ -17,6 +17,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
  <h4>Certifications:</h4>
+  <div>
+      <img src="Certs/aws-certified-solutions-architect-associate-114px.png" />
+     
+  </div>
  <!-- https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url !-->
 <br/>
  </div>
