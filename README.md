@@ -9,7 +9,8 @@
   </a>
   <a href="https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC4803569&registrationID=58617442">
   <img width="100" height="104" img src="Certs/oracle-cloud-infrastructure-badge.png">  
- <h4>Tools & Languages</h4>  <img src="https://skillicons.dev/icons?i=html,vscode,github,gitlab,docker,terraform,aws,azure,ansible,jenkins,maven" />
+
+  <h4>🧑‍🏭Tools & Languages</h4>  <img src="https://skillicons.dev/icons?i=html,vscode,github,gitlab,docker,terraform,aws,azure,ansible,jenkins,maven" />
   <img src="https://skillicons.dev/icons?i=python,prometheus,sentry,grafana,packer" /><br>
 
 
