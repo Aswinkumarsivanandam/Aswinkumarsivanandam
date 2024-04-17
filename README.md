@@ -2,7 +2,7 @@
 
 <h4 aling="left">About me 💫 </h4>
 <h5 align="left">💠A passionate Cloud Engineer from India <br> 🔆Good team player inclined to learn new things 💡
-<br>🏹 Learning K8's 🧊 <br> Lovr to play 🏸 ♟️</h5>
+<br>🏹 Learning K8's 🧊 <br> Love to play 🏸 ♟️</h5>
 <h4> 🎯Certifications</h4>
   <a href="https://www.credly.com/badges/faea1319-741b-489e-aad7-5898bff37e75/public_url![aws-certified-solutions-architect-associate]">
   <img width="100" height="100" img src="Certs/aws-certified-solutions-architect-associate-114px.png"> 
